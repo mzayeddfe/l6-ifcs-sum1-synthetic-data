@@ -1,737 +1,547 @@
-time_identifier,time_period,geographic_levels,country_code,country_name,region_code,region_name,education_phases,headcount,la_code,la_name
-Autumn Term,202425,National,E92000001,England,,,Primary,8859719,,
-Autumn Term,202425,National,E92000001,England,,,Secondary,2174898,,
-Autumn Term,202425,National,E92000001,England,,,Special,15559848,,
-Autumn Term,202425,National,E92000001,England,,,Total,3244733,,
-Autumn Term,202425,Regional,E92000001,England,E12000001,North East,Primary,475996,,
-Autumn Term,202425,Regional,E92000001,England,E12000001,North East,Secondary,1000,,
-Autumn Term,202425,Regional,E92000001,England,E12000001,North East,Special,8530,,
-Autumn Term,202425,Regional,E92000001,England,E12000001,North East,Total,1000,,
-Autumn Term,202425,Regional,E92000001,England,E12000002,North West,Primary,533063,,
-Autumn Term,202425,Regional,E92000001,England,E12000002,North West,Secondary,1000,,
-Autumn Term,202425,Regional,E92000001,England,E12000002,North West,Special,1000,,
-Autumn Term,202425,Regional,E92000001,England,E12000002,North West,Total,1000,,
-Autumn Term,202425,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Primary,1000,,
-Autumn Term,202425,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,1000,,
-Autumn Term,202425,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Special,1000,,
-Autumn Term,202425,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Total,199014,,
-Autumn Term,202425,Regional,E92000001,England,E12000004,East Midlands,Primary,211362,,
-Autumn Term,202425,Regional,E92000001,England,E12000004,East Midlands,Secondary,329858,,
-Autumn Term,202425,Regional,E92000001,England,E12000004,East Midlands,Special,1000,,
-Autumn Term,202425,Regional,E92000001,England,E12000004,East Midlands,Total,372220,,
-Autumn Term,202425,Regional,E92000001,England,E12000005,West Midlands,Primary,1000,,
-Autumn Term,202425,Regional,E92000001,England,E12000005,West Midlands,Secondary,841677,,
-Autumn Term,202425,Regional,E92000001,England,E12000005,West Midlands,Special,378927,,
-Autumn Term,202425,Regional,E92000001,England,E12000005,West Midlands,Total,376400,,
-Autumn Term,202425,Regional,E92000001,England,E12000006,East of England,Primary,404623,,
-Autumn Term,202425,Regional,E92000001,England,E12000006,East of England,Secondary,653425,,
-Autumn Term,202425,Regional,E92000001,England,E12000006,East of England,Special,1000,,
-Autumn Term,202425,Regional,E92000001,England,E12000006,East of England,Total,1000,,
-Autumn Term,202425,Regional,E92000001,England,E12000007,London,Primary,4553,,
-Autumn Term,202425,Regional,E92000001,England,E12000007,London,Secondary,259521,,
-Autumn Term,202425,Regional,E92000001,England,E12000007,London,Special,38698,,
-Autumn Term,202425,Regional,E92000001,England,E12000007,London,Total,1000,,
-Autumn Term,202425,Regional,E92000001,England,E12000008,South East,Primary,1000,,
-Autumn Term,202425,Regional,E92000001,England,E12000008,South East,Secondary,635231,,
-Autumn Term,202425,Regional,E92000001,England,E12000008,South East,Special,802653,,
-Autumn Term,202425,Regional,E92000001,England,E12000008,South East,Total,623213,,
-Autumn Term,202425,Regional,E92000001,England,E12000009,South West,Primary,337110,,
-Autumn Term,202425,Regional,E92000001,England,E12000009,South West,Secondary,299722,,
-Autumn Term,202425,Regional,E92000001,England,E12000009,South West,Special,1408783,,
-Autumn Term,202425,Regional,E92000001,England,E12000009,South West,Total,1000,,
-Autumn Term,202425,Regional,E92000001,England,E13000001,Inner London,Primary,799675,,
-Autumn Term,202425,Regional,E92000001,England,E13000001,Inner London,Secondary,1000,,
-Autumn Term,202425,Regional,E92000001,England,E13000001,Inner London,Special,1000,,
-Autumn Term,202425,Regional,E92000001,England,E13000001,Inner London,Total,58629,,
-Autumn Term,202425,Regional,E92000001,England,E13000002,Outer London,Primary,18188,,
-Autumn Term,202425,Regional,E92000001,England,E13000002,Outer London,Secondary,175343,,
-Autumn Term,202425,Regional,E92000001,England,E13000002,Outer London,Special,1000,,
-Autumn Term,202425,Regional,E92000001,England,E13000002,Outer London,Total,151342,,
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Primary,100,E06000001,Hartlepool
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Secondary,6711,E06000001,Hartlepool
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Special,100,E06000001,Hartlepool
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Total,2990,E06000001,Hartlepool
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Primary,2639,E06000002,Middlesbrough
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Secondary,100,E06000002,Middlesbrough
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Special,100,E06000002,Middlesbrough
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Total,100,E06000002,Middlesbrough
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Primary,100,E06000003,Redcar and Cleveland
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Secondary,866,E06000003,Redcar and Cleveland
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Special,100,E06000003,Redcar and Cleveland
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Total,2801,E06000003,Redcar and Cleveland
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Primary,2303,E06000004,Stockton-on-Tees
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Secondary,100,E06000004,Stockton-on-Tees
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Special,2290,E06000004,Stockton-on-Tees
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Total,100,E06000004,Stockton-on-Tees
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Primary,3019,E06000005,Darlington
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Secondary,100,E06000005,Darlington
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Special,1161,E06000005,Darlington
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Total,260,E06000005,Darlington
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,1539,E06000006,Halton
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,3283,E06000006,Halton
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,568,E06000006,Halton
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,100,E06000006,Halton
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,100,E06000007,Warrington
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,100,E06000007,Warrington
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,800,E06000007,Warrington
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,776,E06000007,Warrington
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,6322,E06000008,Blackburn with Darwen
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,4596,E06000008,Blackburn with Darwen
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,100,E06000008,Blackburn with Darwen
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,3541,E06000008,Blackburn with Darwen
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,8967,E06000009,Blackpool
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,2710,E06000009,Blackpool
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,100,E06000009,Blackpool
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,2971,E06000009,Blackpool
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Primary,4890,E06000010,"Kingston upon Hull, City of"
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,100,E06000010,"Kingston upon Hull, City of"
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Special,4235,E06000010,"Kingston upon Hull, City of"
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Total,727,E06000010,"Kingston upon Hull, City of"
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Primary,5733,E06000011,East Riding of Yorkshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,100,E06000011,East Riding of Yorkshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Special,100,E06000011,East Riding of Yorkshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Total,100,E06000011,East Riding of Yorkshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Primary,2692,E06000012,North East Lincolnshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,2092,E06000012,North East Lincolnshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Special,100,E06000012,North East Lincolnshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Total,2418,E06000012,North East Lincolnshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Primary,528,E06000013,North Lincolnshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,100,E06000013,North Lincolnshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Special,3658,E06000013,North Lincolnshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Total,100,E06000013,North Lincolnshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Primary,156,E06000014,York
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,3971,E06000014,York
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Special,10921,E06000014,York
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Total,1943,E06000014,York
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Primary,1090,E06000015,Derby
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Secondary,100,E06000015,Derby
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Special,100,E06000015,Derby
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Total,100,E06000015,Derby
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Primary,100,E06000016,Leicester
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Secondary,100,E06000016,Leicester
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Special,100,E06000016,Leicester
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Total,100,E06000016,Leicester
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Primary,100,E06000017,Rutland
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Secondary,2480,E06000017,Rutland
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Special,5015,E06000017,Rutland
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Total,100,E06000017,Rutland
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Primary,100,E06000018,Nottingham
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Secondary,100,E06000018,Nottingham
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Special,2332,E06000018,Nottingham
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Total,100,E06000018,Nottingham
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Primary,100,E06000019,"Herefordshire, County of"
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Secondary,2831,E06000019,"Herefordshire, County of"
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Special,100,E06000019,"Herefordshire, County of"
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Total,8284,E06000019,"Herefordshire, County of"
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Primary,2054,E06000020,Telford and Wrekin
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Secondary,100,E06000020,Telford and Wrekin
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Special,100,E06000020,Telford and Wrekin
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Total,739,E06000020,Telford and Wrekin
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Primary,100,E06000021,Stoke-on-Trent
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Secondary,100,E06000021,Stoke-on-Trent
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Special,992,E06000021,Stoke-on-Trent
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Total,7331,E06000021,Stoke-on-Trent
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Primary,100,E06000022,Bath and North East Somerset
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Secondary,1862,E06000022,Bath and North East Somerset
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Special,5470,E06000022,Bath and North East Somerset
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Total,100,E06000022,Bath and North East Somerset
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Primary,6316,E06000023,"Bristol, City of"
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Secondary,100,E06000023,"Bristol, City of"
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Special,2165,E06000023,"Bristol, City of"
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Total,100,E06000023,"Bristol, City of"
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Primary,4983,E06000024,North Somerset
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Secondary,2587,E06000024,North Somerset
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Special,437,E06000024,North Somerset
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Total,1096,E06000024,North Somerset
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Primary,100,E06000025,South Gloucestershire
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Secondary,100,E06000025,South Gloucestershire
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Special,3789,E06000025,South Gloucestershire
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Total,100,E06000025,South Gloucestershire
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Primary,100,E06000026,Plymouth
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Secondary,1409,E06000026,Plymouth
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Special,604,E06000026,Plymouth
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Total,7236,E06000026,Plymouth
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Primary,1235,E06000027,Torbay
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Secondary,5985,E06000027,Torbay
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Special,100,E06000027,Torbay
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Total,9068,E06000027,Torbay
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Primary,100,E06000028,Bournemouth
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Secondary,1826,E06000028,Bournemouth
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Special,4630,E06000028,Bournemouth
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Total,100,E06000028,Bournemouth
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Primary,100,E06000029,Poole
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Secondary,3307,E06000029,Poole
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Special,100,E06000029,Poole
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Total,2850,E06000029,Poole
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Primary,7218,E06000030,Swindon
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Secondary,100,E06000030,Swindon
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Special,134,E06000030,Swindon
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Total,100,E06000030,Swindon
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Primary,100,E06000031,Peterborough
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Secondary,2342,E06000031,Peterborough
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Special,9707,E06000031,Peterborough
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Total,6316,E06000031,Peterborough
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Primary,100,E06000032,Luton
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Secondary,100,E06000032,Luton
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Special,100,E06000032,Luton
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Total,3353,E06000032,Luton
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Primary,7445,E06000033,Southend-on-Sea
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Secondary,2840,E06000033,Southend-on-Sea
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Special,100,E06000033,Southend-on-Sea
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Total,100,E06000033,Southend-on-Sea
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Primary,100,E06000034,Thurrock
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Secondary,1152,E06000034,Thurrock
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Special,100,E06000034,Thurrock
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Total,323,E06000034,Thurrock
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Primary,2837,E06000035,Medway
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Secondary,4477,E06000035,Medway
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Special,100,E06000035,Medway
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Total,4099,E06000035,Medway
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Primary,100,E06000036,Bracknell Forest
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Secondary,1133,E06000036,Bracknell Forest
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Special,100,E06000036,Bracknell Forest
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Total,100,E06000036,Bracknell Forest
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Primary,100,E06000037,West Berkshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Secondary,100,E06000037,West Berkshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Special,100,E06000037,West Berkshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Total,100,E06000037,West Berkshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Primary,100,E06000038,Reading
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Secondary,2131,E06000038,Reading
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Special,100,E06000038,Reading
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Total,2638,E06000038,Reading
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Primary,100,E06000039,Slough
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Secondary,100,E06000039,Slough
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Special,100,E06000039,Slough
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Total,1534,E06000039,Slough
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Primary,4626,E06000040,Windsor and Maidenhead
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Secondary,3203,E06000040,Windsor and Maidenhead
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Special,100,E06000040,Windsor and Maidenhead
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Total,483,E06000040,Windsor and Maidenhead
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Primary,100,E06000041,Wokingham
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Secondary,484,E06000041,Wokingham
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Special,2969,E06000041,Wokingham
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Total,100,E06000041,Wokingham
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Primary,3007,E06000042,Milton Keynes
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Secondary,3758,E06000042,Milton Keynes
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Special,194,E06000042,Milton Keynes
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Total,100,E06000042,Milton Keynes
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Primary,100,E06000043,Brighton and Hove
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Secondary,3235,E06000043,Brighton and Hove
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Special,1300,E06000043,Brighton and Hove
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Total,906,E06000043,Brighton and Hove
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Primary,2590,E06000044,Portsmouth
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Secondary,1147,E06000044,Portsmouth
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Special,1492,E06000044,Portsmouth
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Total,915,E06000044,Portsmouth
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Primary,100,E06000045,Southampton
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Secondary,4995,E06000045,Southampton
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Special,100,E06000045,Southampton
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Total,100,E06000045,Southampton
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Primary,3511,E06000046,Isle of Wight
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Secondary,100,E06000046,Isle of Wight
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Special,9228,E06000046,Isle of Wight
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Total,1676,E06000046,Isle of Wight
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Primary,100,E06000047,County Durham
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Secondary,7567,E06000047,County Durham
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Special,100,E06000047,County Durham
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Total,100,E06000047,County Durham
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Primary,7626,E06000048,Northumberland
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Secondary,100,E06000048,Northumberland
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Special,3034,E06000048,Northumberland
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Total,2011,E06000048,Northumberland
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,1873,E06000049,Cheshire East
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,6419,E06000049,Cheshire East
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,6368,E06000049,Cheshire East
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,3868,E06000049,Cheshire East
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,2857,E06000050,Cheshire West and Chester
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,1434,E06000050,Cheshire West and Chester
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,100,E06000050,Cheshire West and Chester
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,100,E06000050,Cheshire West and Chester
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Primary,2465,E06000051,Shropshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Secondary,100,E06000051,Shropshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Special,100,E06000051,Shropshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Total,100,E06000051,Shropshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Primary,1335,E06000052,Cornwall
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Secondary,3563,E06000052,Cornwall
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Special,100,E06000052,Cornwall
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Total,2155,E06000052,Cornwall
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Primary,100,E06000053,Isles of Scilly
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Secondary,100,E06000053,Isles of Scilly
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Special,6173,E06000053,Isles of Scilly
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Total,1082,E06000053,Isles of Scilly
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Primary,8790,E06000054,Wiltshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Secondary,100,E06000054,Wiltshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Special,100,E06000054,Wiltshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Total,1684,E06000054,Wiltshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Primary,2455,E06000055,Bedford
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Secondary,3107,E06000055,Bedford
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Special,100,E06000055,Bedford
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Total,100,E06000055,Bedford
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Primary,2225,E06000056,Central Bedfordshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Secondary,6535,E06000056,Central Bedfordshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Special,3286,E06000056,Central Bedfordshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Total,7699,E06000056,Central Bedfordshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Primary,100,E06000057,Northumberland
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Secondary,100,E06000057,Northumberland
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Special,100,E06000057,Northumberland
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Total,100,E06000057,Northumberland
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Primary,3516,E06000058,"Bournemouth, Christchurch and Poole"
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Secondary,100,E06000058,"Bournemouth, Christchurch and Poole"
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Special,7424,E06000058,"Bournemouth, Christchurch and Poole"
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Total,1933,E06000058,"Bournemouth, Christchurch and Poole"
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Primary,5705,E06000059,Dorset
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Secondary,2618,E06000059,Dorset
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Special,100,E06000059,Dorset
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Total,100,E06000059,Dorset
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Primary,4349,E06000060,Buckinghamshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Secondary,6958,E06000060,Buckinghamshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Special,100,E06000060,Buckinghamshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Total,7921,E06000060,Buckinghamshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Primary,201,E06000061,North Northamptonshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Secondary,100,E06000061,North Northamptonshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Special,1240,E06000061,North Northamptonshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Total,100,E06000061,North Northamptonshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Primary,6154,E06000062,West Northamptonshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Secondary,100,E06000062,West Northamptonshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Special,3377,E06000062,West Northamptonshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Total,5476,E06000062,West Northamptonshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,100,E06000063,Cumberland
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,100,E06000063,Cumberland
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,100,E06000063,Cumberland
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,100,E06000063,Cumberland
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,755,E06000064,Westmorland and Furness
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,100,E06000064,Westmorland and Furness
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,6540,E06000064,Westmorland and Furness
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,1293,E06000064,Westmorland and Furness
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Primary,693,E06000065,North Yorkshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,1191,E06000065,North Yorkshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Special,100,E06000065,North Yorkshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Total,100,E06000065,North Yorkshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Primary,6954,E06000066,Somerset
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Secondary,8500,E06000066,Somerset
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Special,100,E06000066,Somerset
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Total,2284,E06000066,Somerset
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,100,E08000001,Bolton
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,4924,E08000001,Bolton
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,3405,E08000001,Bolton
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,767,E08000001,Bolton
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,7257,E08000002,Bury
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,100,E08000002,Bury
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,100,E08000002,Bury
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,2176,E08000002,Bury
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,2248,E08000003,Manchester
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,6363,E08000003,Manchester
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,213,E08000003,Manchester
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,100,E08000003,Manchester
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,759,E08000004,Oldham
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,100,E08000004,Oldham
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,2129,E08000004,Oldham
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,7774,E08000004,Oldham
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,4552,E08000005,Rochdale
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,1316,E08000005,Rochdale
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,1470,E08000005,Rochdale
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,2064,E08000005,Rochdale
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,4874,E08000006,Salford
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,5819,E08000006,Salford
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,2667,E08000006,Salford
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,1888,E08000006,Salford
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,4165,E08000007,Stockport
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,6125,E08000007,Stockport
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,3003,E08000007,Stockport
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,100,E08000007,Stockport
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,7157,E08000008,Tameside
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,100,E08000008,Tameside
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,1287,E08000008,Tameside
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,2589,E08000008,Tameside
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,100,E08000009,Trafford
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,100,E08000009,Trafford
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,4189,E08000009,Trafford
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,1840,E08000009,Trafford
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,973,E08000010,Wigan
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,100,E08000010,Wigan
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,1656,E08000010,Wigan
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,100,E08000010,Wigan
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,6647,E08000011,Knowsley
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,100,E08000011,Knowsley
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,100,E08000011,Knowsley
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,100,E08000011,Knowsley
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,100,E08000012,Liverpool
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,100,E08000012,Liverpool
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,6962,E08000012,Liverpool
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,100,E08000012,Liverpool
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,1924,E08000013,St. Helens
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,824,E08000013,St. Helens
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,100,E08000013,St. Helens
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,700,E08000013,St. Helens
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,1352,E08000014,Sefton
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,100,E08000014,Sefton
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,100,E08000014,Sefton
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,100,E08000014,Sefton
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,10147,E08000015,Wirral
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,3079,E08000015,Wirral
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,100,E08000015,Wirral
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,1644,E08000015,Wirral
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Primary,100,E08000016,Barnsley
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,301,E08000016,Barnsley
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Special,614,E08000016,Barnsley
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Total,1528,E08000016,Barnsley
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Primary,1224,E08000017,Doncaster
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,100,E08000017,Doncaster
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Special,1000,E08000017,Doncaster
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Total,5655,E08000017,Doncaster
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Primary,2120,E08000018,Rotherham
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,100,E08000018,Rotherham
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Special,3997,E08000018,Rotherham
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Total,100,E08000018,Rotherham
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Primary,10100,E08000019,Sheffield
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,100,E08000019,Sheffield
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Special,875,E08000019,Sheffield
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Total,3688,E08000019,Sheffield
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Primary,100,E08000020,Gateshead
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Secondary,100,E08000020,Gateshead
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Special,310,E08000020,Gateshead
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Total,2515,E08000020,Gateshead
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Primary,1745,E08000021,Newcastle upon Tyne
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Secondary,923,E08000021,Newcastle upon Tyne
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Special,100,E08000021,Newcastle upon Tyne
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Total,6134,E08000021,Newcastle upon Tyne
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Primary,100,E08000022,North Tyneside
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Secondary,100,E08000022,North Tyneside
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Special,100,E08000022,North Tyneside
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Total,100,E08000022,North Tyneside
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Primary,100,E08000023,South Tyneside
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Secondary,1576,E08000023,South Tyneside
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Special,3181,E08000023,South Tyneside
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Total,1404,E08000023,South Tyneside
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Primary,100,E08000024,Sunderland
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Secondary,8171,E08000024,Sunderland
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Special,3568,E08000024,Sunderland
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Total,1109,E08000024,Sunderland
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Primary,2822,E08000025,Birmingham
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Secondary,100,E08000025,Birmingham
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Special,100,E08000025,Birmingham
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Total,100,E08000025,Birmingham
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Primary,8632,E08000026,Coventry
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Secondary,100,E08000026,Coventry
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Special,8127,E08000026,Coventry
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Total,1591,E08000026,Coventry
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Primary,1690,E08000027,Dudley
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Secondary,9511,E08000027,Dudley
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Special,170,E08000027,Dudley
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Total,1740,E08000027,Dudley
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Primary,100,E08000028,Sandwell
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Secondary,1886,E08000028,Sandwell
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Special,4759,E08000028,Sandwell
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Total,3517,E08000028,Sandwell
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Primary,3581,E08000029,Solihull
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Secondary,100,E08000029,Solihull
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Special,2489,E08000029,Solihull
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Total,100,E08000029,Solihull
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Primary,4312,E08000030,Walsall
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Secondary,1719,E08000030,Walsall
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Special,1397,E08000030,Walsall
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Total,100,E08000030,Walsall
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Primary,10341,E08000031,Wolverhampton
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Secondary,1413,E08000031,Wolverhampton
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Special,100,E08000031,Wolverhampton
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Total,100,E08000031,Wolverhampton
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Primary,1506,E08000032,Bradford
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,100,E08000032,Bradford
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Special,2375,E08000032,Bradford
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Total,6167,E08000032,Bradford
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Primary,3487,E08000033,Calderdale
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,100,E08000033,Calderdale
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Special,100,E08000033,Calderdale
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Total,1547,E08000033,Calderdale
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Primary,100,E08000034,Kirklees
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,4296,E08000034,Kirklees
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Special,1388,E08000034,Kirklees
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Total,5674,E08000034,Kirklees
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Primary,171,E08000035,Leeds
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,9776,E08000035,Leeds
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Special,4814,E08000035,Leeds
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Total,2872,E08000035,Leeds
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Primary,6505,E08000036,Wakefield
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,100,E08000036,Wakefield
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Special,5380,E08000036,Wakefield
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Total,100,E08000036,Wakefield
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Primary,100,E08000037,Gateshead
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Secondary,2280,E08000037,Gateshead
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Special,100,E08000037,Gateshead
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Total,3741,E08000037,Gateshead
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Primary,2859,E08000038,Barnsley
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,7506,E08000038,Barnsley
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Special,4286,E08000038,Barnsley
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Total,125,E08000038,Barnsley
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Primary,2789,E08000039,Sheffield
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,1239,E08000039,Sheffield
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Special,3053,E08000039,Sheffield
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Total,5922,E08000039,Sheffield
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,100,E09000001,City of London
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,100,E09000001,City of London
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,6604,E09000001,City of London
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,100,E09000001,City of London
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,100,E09000002,Barking and Dagenham
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,3160,E09000002,Barking and Dagenham
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,100,E09000002,Barking and Dagenham
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,5215,E09000002,Barking and Dagenham
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,100,E09000003,Barnet
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,642,E09000003,Barnet
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,2013,E09000003,Barnet
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,2534,E09000003,Barnet
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,3812,E09000004,Bexley
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,100,E09000004,Bexley
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,5900,E09000004,Bexley
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,1653,E09000004,Bexley
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,2688,E09000005,Brent
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,4017,E09000005,Brent
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,2139,E09000005,Brent
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,100,E09000005,Brent
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,100,E09000006,Bromley
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,100,E09000006,Bromley
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,1171,E09000006,Bromley
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,1040,E09000006,Bromley
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,100,E09000007,Camden
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,1070,E09000007,Camden
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,255,E09000007,Camden
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,100,E09000007,Camden
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,100,E09000008,Croydon
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,100,E09000008,Croydon
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,4403,E09000008,Croydon
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,2581,E09000008,Croydon
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,3924,E09000009,Ealing
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,1353,E09000009,Ealing
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,695,E09000009,Ealing
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,1721,E09000009,Ealing
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,100,E09000010,Enfield
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,5443,E09000010,Enfield
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,2741,E09000010,Enfield
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,3834,E09000010,Enfield
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,100,E09000011,Greenwich
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,1372,E09000011,Greenwich
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,3690,E09000011,Greenwich
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,100,E09000011,Greenwich
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,5347,E09000012,Hackney
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,100,E09000012,Hackney
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,4198,E09000012,Hackney
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,2654,E09000012,Hackney
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,359,E09000013,Hammersmith and Fulham
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,100,E09000013,Hammersmith and Fulham
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,10759,E09000013,Hammersmith and Fulham
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,213,E09000013,Hammersmith and Fulham
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,1480,E09000014,Haringey
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,100,E09000014,Haringey
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,1674,E09000014,Haringey
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,10434,E09000014,Haringey
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,100,E09000015,Harrow
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,100,E09000015,Harrow
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,100,E09000015,Harrow
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,6838,E09000015,Harrow
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,100,E09000016,Havering
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,6478,E09000016,Havering
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,2945,E09000016,Havering
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,100,E09000016,Havering
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,100,E09000017,Hillingdon
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,100,E09000017,Hillingdon
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,2900,E09000017,Hillingdon
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,100,E09000017,Hillingdon
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,100,E09000018,Hounslow
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,5356,E09000018,Hounslow
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,100,E09000018,Hounslow
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,100,E09000018,Hounslow
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,4254,E09000019,Islington
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,100,E09000019,Islington
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,3304,E09000019,Islington
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,9238,E09000019,Islington
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,100,E09000020,Kensington and Chelsea
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,798,E09000020,Kensington and Chelsea
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,2154,E09000020,Kensington and Chelsea
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,646,E09000020,Kensington and Chelsea
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,100,E09000021,Kingston upon Thames
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,251,E09000021,Kingston upon Thames
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,100,E09000021,Kingston upon Thames
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,100,E09000021,Kingston upon Thames
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,6327,E09000022,Lambeth
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,208,E09000022,Lambeth
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,2470,E09000022,Lambeth
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,743,E09000022,Lambeth
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,4496,E09000023,Lewisham
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,100,E09000023,Lewisham
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,100,E09000023,Lewisham
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,4913,E09000023,Lewisham
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,3242,E09000024,Merton
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,100,E09000024,Merton
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,100,E09000024,Merton
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,1242,E09000024,Merton
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,100,E09000025,Newham
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,3976,E09000025,Newham
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,100,E09000025,Newham
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,2761,E09000025,Newham
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,9244,E09000026,Redbridge
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,8793,E09000026,Redbridge
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,851,E09000026,Redbridge
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,100,E09000026,Redbridge
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,100,E09000027,Richmond upon Thames
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,468,E09000027,Richmond upon Thames
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,100,E09000027,Richmond upon Thames
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,100,E09000027,Richmond upon Thames
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,5924,E09000028,Southwark
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,100,E09000028,Southwark
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,100,E09000028,Southwark
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,4549,E09000028,Southwark
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,2864,E09000029,Sutton
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,3273,E09000029,Sutton
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,3321,E09000029,Sutton
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,100,E09000029,Sutton
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,5074,E09000030,Tower Hamlets
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,1039,E09000030,Tower Hamlets
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,100,E09000030,Tower Hamlets
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,3154,E09000030,Tower Hamlets
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,100,E09000031,Waltham Forest
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,2724,E09000031,Waltham Forest
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,4600,E09000031,Waltham Forest
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,8111,E09000031,Waltham Forest
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,100,E09000032,Wandsworth
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,2148,E09000032,Wandsworth
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,100,E09000032,Wandsworth
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,4678,E09000032,Wandsworth
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Primary,100,E09000033,Westminster
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Secondary,100,E09000033,Westminster
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Special,100,E09000033,Westminster
-Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,Total,100,E09000033,Westminster
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Primary,100,E10000001,Bedfordshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Secondary,100,E10000001,Bedfordshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Special,100,E10000001,Bedfordshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Total,100,E10000001,Bedfordshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Primary,4249,E10000002,Buckinghamshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Secondary,3327,E10000002,Buckinghamshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Special,4516,E10000002,Buckinghamshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Total,5557,E10000002,Buckinghamshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Primary,100,E10000003,Cambridgeshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Secondary,1470,E10000003,Cambridgeshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Special,508,E10000003,Cambridgeshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Total,100,E10000003,Cambridgeshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,100,E10000004,Cheshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,3996,E10000004,Cheshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,100,E10000004,Cheshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,868,E10000004,Cheshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Primary,200,E10000005,Cornwall and Isles of Scilly
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Secondary,5376,E10000005,Cornwall and Isles of Scilly
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Special,100,E10000005,Cornwall and Isles of Scilly
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Total,4569,E10000005,Cornwall and Isles of Scilly
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,2644,E10000006,Cumbria
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,4278,E10000006,Cumbria
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,100,E10000006,Cumbria
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,6708,E10000006,Cumbria
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Primary,7031,E10000007,Derbyshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Secondary,100,E10000007,Derbyshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Special,1682,E10000007,Derbyshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Total,12871,E10000007,Derbyshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Primary,11189,E10000008,Devon
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Secondary,2885,E10000008,Devon
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Special,6373,E10000008,Devon
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Total,2118,E10000008,Devon
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Primary,4654,E10000009,Dorset
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Secondary,100,E10000009,Dorset
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Special,5394,E10000009,Dorset
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Total,100,E10000009,Dorset
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Primary,8976,E10000010,Durham
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Secondary,829,E10000010,Durham
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Special,100,E10000010,Durham
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Total,100,E10000010,Durham
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Primary,1698,E10000011,East Sussex
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Secondary,1728,E10000011,East Sussex
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Special,100,E10000011,East Sussex
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Total,1278,E10000011,East Sussex
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Primary,3976,E10000012,Essex
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Secondary,7328,E10000012,Essex
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Special,1899,E10000012,Essex
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Total,100,E10000012,Essex
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Primary,100,E10000013,Gloucestershire
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Secondary,16072,E10000013,Gloucestershire
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Special,4282,E10000013,Gloucestershire
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Total,100,E10000013,Gloucestershire
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Primary,9121,E10000014,Hampshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Secondary,1181,E10000014,Hampshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Special,787,E10000014,Hampshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Total,100,E10000014,Hampshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Primary,100,E10000015,Hertfordshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Secondary,8657,E10000015,Hertfordshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Special,100,E10000015,Hertfordshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Total,100,E10000015,Hertfordshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Primary,100,E10000016,Kent
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Secondary,4461,E10000016,Kent
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Special,4589,E10000016,Kent
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Total,100,E10000016,Kent
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Primary,4332,E10000017,Lancashire
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Secondary,100,E10000017,Lancashire
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Special,5545,E10000017,Lancashire
-Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,Total,1761,E10000017,Lancashire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Primary,1669,E10000018,Leicestershire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Secondary,100,E10000018,Leicestershire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Special,2197,E10000018,Leicestershire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Total,100,E10000018,Leicestershire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Primary,100,E10000019,Lincolnshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Secondary,7869,E10000019,Lincolnshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Special,100,E10000019,Lincolnshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Total,4163,E10000019,Lincolnshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Primary,2843,E10000020,Norfolk
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Secondary,110,E10000020,Norfolk
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Special,100,E10000020,Norfolk
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Total,3426,E10000020,Norfolk
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Primary,100,E10000021,Northamptonshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Secondary,1342,E10000021,Northamptonshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Special,6659,E10000021,Northamptonshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Total,100,E10000021,Northamptonshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Primary,100,E10000022,Northumberland
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Secondary,1596,E10000022,Northumberland
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Special,2909,E10000022,Northumberland
-Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,Total,100,E10000022,Northumberland
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Primary,4684,E10000023,North Yorkshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,7559,E10000023,North Yorkshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Special,6592,E10000023,North Yorkshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,Total,3308,E10000023,North Yorkshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Primary,5326,E10000024,Nottinghamshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Secondary,7448,E10000024,Nottinghamshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Special,100,E10000024,Nottinghamshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,Total,3911,E10000024,Nottinghamshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Primary,3937,E10000025,Oxfordshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Secondary,8253,E10000025,Oxfordshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Special,3254,E10000025,Oxfordshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Total,100,E10000025,Oxfordshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Primary,100,E10000026,Shropshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Secondary,2428,E10000026,Shropshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Special,100,E10000026,Shropshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Total,100,E10000026,Shropshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Primary,836,E10000027,Somerset
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Secondary,1143,E10000027,Somerset
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Special,1489,E10000027,Somerset
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Total,100,E10000027,Somerset
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Primary,100,E10000028,Staffordshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Secondary,3112,E10000028,Staffordshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Special,100,E10000028,Staffordshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Total,5037,E10000028,Staffordshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Primary,543,E10000029,Suffolk
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Secondary,100,E10000029,Suffolk
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Special,100,E10000029,Suffolk
-Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,Total,100,E10000029,Suffolk
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Primary,1522,E10000030,Surrey
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Secondary,3469,E10000030,Surrey
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Special,100,E10000030,Surrey
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Total,100,E10000030,Surrey
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Primary,2560,E10000031,Warwickshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Secondary,246,E10000031,Warwickshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Special,908,E10000031,Warwickshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Total,3099,E10000031,Warwickshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Primary,100,E10000032,West Sussex
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Secondary,4059,E10000032,West Sussex
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Special,139,E10000032,West Sussex
-Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,Total,100,E10000032,West Sussex
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Primary,2939,E10000033,Wiltshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Secondary,100,E10000033,Wiltshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Special,2841,E10000033,Wiltshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,Total,8387,E10000033,Wiltshire
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Primary,6894,E10000034,Worcestershire
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Secondary,6961,E10000034,Worcestershire
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Special,100,E10000034,Worcestershire
-Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,Total,100,E10000034,Worcestershire
+time_identifier,time_period,geographic_level,country_code,country_name,region_code,region_name,la_code,la_name,education_phases,headcount,suspensions
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000001,Hartlepool,Primary,9374,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000001,Hartlepool,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000001,Hartlepool,Special,4969,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000002,Middlesbrough,Primary,4314,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000002,Middlesbrough,Secondary,4144,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000002,Middlesbrough,Special,4293,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000003,Redcar and Cleveland,Primary,2201,568
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000003,Redcar and Cleveland,Secondary,6534,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000003,Redcar and Cleveland,Special,559,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000004,Stockton-on-Tees,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000004,Stockton-on-Tees,Secondary,5599,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000004,Stockton-on-Tees,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000005,Darlington,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000005,Darlington,Secondary,150,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000005,Darlington,Special,4787,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000006,Halton,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000006,Halton,Secondary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000006,Halton,Special,1523,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000007,Warrington,Primary,1856,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000007,Warrington,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000007,Warrington,Special,5933,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000008,Blackburn with Darwen,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000008,Blackburn with Darwen,Secondary,352,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000008,Blackburn with Darwen,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000009,Blackpool,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000009,Blackpool,Secondary,11370,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000009,Blackpool,Special,1000,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E06000010,"Kingston upon Hull, City of",Primary,100,880
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E06000010,"Kingston upon Hull, City of",Secondary,100,700
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E06000010,"Kingston upon Hull, City of",Special,1627,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E06000011,East Riding of Yorkshire,Primary,334,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E06000011,East Riding of Yorkshire,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E06000011,East Riding of Yorkshire,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E06000012,North East Lincolnshire,Primary,5780,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E06000012,North East Lincolnshire,Secondary,2227,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E06000012,North East Lincolnshire,Special,3201,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E06000013,North Lincolnshire,Primary,6229,135
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E06000013,North Lincolnshire,Secondary,7402,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E06000013,North Lincolnshire,Special,3896,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E06000014,York,Primary,3441,969
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E06000014,York,Secondary,2619,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E06000014,York,Special,1395,443
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E06000015,Derby,Primary,4102,667
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E06000015,Derby,Secondary,5466,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E06000015,Derby,Special,735,672
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E06000016,Leicester,Primary,7114,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E06000016,Leicester,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E06000016,Leicester,Special,3614,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E06000017,Rutland,Primary,342,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E06000017,Rutland,Secondary,100,669
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E06000017,Rutland,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E06000018,Nottingham,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E06000018,Nottingham,Secondary,185,263
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E06000018,Nottingham,Special,557,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E06000019,"Herefordshire, County of",Primary,2011,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E06000019,"Herefordshire, County of",Secondary,3582,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E06000019,"Herefordshire, County of",Special,161,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E06000020,Telford and Wrekin,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E06000020,Telford and Wrekin,Secondary,9165,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E06000020,Telford and Wrekin,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E06000021,Stoke-on-Trent,Primary,631,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E06000021,Stoke-on-Trent,Secondary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E06000021,Stoke-on-Trent,Special,5876,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000022,Bath and North East Somerset,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000022,Bath and North East Somerset,Secondary,857,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000022,Bath and North East Somerset,Special,2201,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000023,"Bristol, City of",Primary,2961,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000023,"Bristol, City of",Secondary,4997,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000023,"Bristol, City of",Special,3043,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000024,North Somerset,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000024,North Somerset,Secondary,3847,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000024,North Somerset,Special,6070,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000025,South Gloucestershire,Primary,7586,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000025,South Gloucestershire,Secondary,2546,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000025,South Gloucestershire,Special,5307,710
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000026,Plymouth,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000026,Plymouth,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000026,Plymouth,Special,4718,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000027,Torbay,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000027,Torbay,Secondary,5951,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000027,Torbay,Special,4167,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000028,Bournemouth,Primary,3732,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000028,Bournemouth,Secondary,9342,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000028,Bournemouth,Special,8612,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000029,Poole,Primary,5056,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000029,Poole,Secondary,3666,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000029,Poole,Special,5930,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000030,Swindon,Primary,434,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000030,Swindon,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000030,Swindon,Special,806,645
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E06000031,Peterborough,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E06000031,Peterborough,Secondary,9550,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E06000031,Peterborough,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E06000032,Luton,Primary,5137,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E06000032,Luton,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E06000032,Luton,Special,1309,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E06000033,Southend-on-Sea,Primary,685,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E06000033,Southend-on-Sea,Secondary,1878,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E06000033,Southend-on-Sea,Special,1802,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E06000034,Thurrock,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E06000034,Thurrock,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E06000034,Thurrock,Special,5100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000035,Medway,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000035,Medway,Secondary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000035,Medway,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000036,Bracknell Forest,Primary,5659,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000036,Bracknell Forest,Secondary,1213,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000036,Bracknell Forest,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000037,West Berkshire,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000037,West Berkshire,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000037,West Berkshire,Special,100,542
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000038,Reading,Primary,1118,598
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000038,Reading,Secondary,1120,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000038,Reading,Special,2999,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000039,Slough,Primary,6013,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000039,Slough,Secondary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000039,Slough,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000040,Windsor and Maidenhead,Primary,1132,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000040,Windsor and Maidenhead,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000040,Windsor and Maidenhead,Special,5984,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000041,Wokingham,Primary,100,484
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000041,Wokingham,Secondary,2531,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000041,Wokingham,Special,285,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000042,Milton Keynes,Primary,100,723
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000042,Milton Keynes,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000042,Milton Keynes,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000043,Brighton and Hove,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000043,Brighton and Hove,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000043,Brighton and Hove,Special,8153,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000044,Portsmouth,Primary,2266,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000044,Portsmouth,Secondary,1515,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000044,Portsmouth,Special,1706,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000045,Southampton,Primary,100,785
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000045,Southampton,Secondary,3527,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000045,Southampton,Special,1947,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000046,Isle of Wight,Primary,5904,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000046,Isle of Wight,Secondary,3010,161
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000046,Isle of Wight,Special,5183,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000047,County Durham,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000047,County Durham,Secondary,2006,37
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000047,County Durham,Special,3062,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000048,Northumberland,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000048,Northumberland,Secondary,100,502
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000048,Northumberland,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000049,Cheshire East,Primary,4741,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000049,Cheshire East,Secondary,4755,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000049,Cheshire East,Special,4126,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000050,Cheshire West and Chester,Primary,2402,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000050,Cheshire West and Chester,Secondary,2420,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000050,Cheshire West and Chester,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E06000051,Shropshire,Primary,565,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E06000051,Shropshire,Secondary,2968,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E06000051,Shropshire,Special,2883,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000052,Cornwall,Primary,6449,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000052,Cornwall,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000052,Cornwall,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000053,Isles of Scilly,Primary,1790,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000053,Isles of Scilly,Secondary,7050,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000053,Isles of Scilly,Special,100,829
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000054,Wiltshire,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000054,Wiltshire,Secondary,2166,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000054,Wiltshire,Special,3866,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E06000055,Bedford,Primary,4540,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E06000055,Bedford,Secondary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E06000055,Bedford,Special,5176,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E06000056,Central Bedfordshire,Primary,1702,208
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E06000056,Central Bedfordshire,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E06000056,Central Bedfordshire,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000057,Northumberland,Primary,1764,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000057,Northumberland,Secondary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E06000057,Northumberland,Special,100,747
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000058,"Bournemouth, Christchurch and Poole",Primary,1914,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000058,"Bournemouth, Christchurch and Poole",Secondary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000058,"Bournemouth, Christchurch and Poole",Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000059,Dorset,Primary,1914,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000059,Dorset,Secondary,4445,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000059,Dorset,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000060,Buckinghamshire,Primary,2079,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000060,Buckinghamshire,Secondary,1000,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E06000060,Buckinghamshire,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E06000061,North Northamptonshire,Primary,1567,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E06000061,North Northamptonshire,Secondary,4809,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E06000061,North Northamptonshire,Special,11962,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E06000062,West Northamptonshire,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E06000062,West Northamptonshire,Secondary,5342,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E06000062,West Northamptonshire,Special,5320,326
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000063,Cumberland,Primary,2422,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000063,Cumberland,Secondary,2545,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000063,Cumberland,Special,2715,949
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000064,Westmorland and Furness,Primary,2801,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000064,Westmorland and Furness,Secondary,3508,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E06000064,Westmorland and Furness,Special,5099,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E06000065,North Yorkshire,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E06000065,North Yorkshire,Secondary,1159,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E06000065,North Yorkshire,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000066,Somerset,Primary,6861,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000066,Somerset,Secondary,1460,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E06000066,Somerset,Special,4693,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000001,Bolton,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000001,Bolton,Secondary,443,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000001,Bolton,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000002,Bury,Primary,2808,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000002,Bury,Secondary,6042,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000002,Bury,Special,2312,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000003,Manchester,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000003,Manchester,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000003,Manchester,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000004,Oldham,Primary,296,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000004,Oldham,Secondary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000004,Oldham,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000005,Rochdale,Primary,3028,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000005,Rochdale,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000005,Rochdale,Special,4000,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000006,Salford,Primary,1723,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000006,Salford,Secondary,3218,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000006,Salford,Special,2818,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000007,Stockport,Primary,486,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000007,Stockport,Secondary,2154,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000007,Stockport,Special,1956,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000008,Tameside,Primary,100,33
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000008,Tameside,Secondary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000008,Tameside,Special,710,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000009,Trafford,Primary,5782,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000009,Trafford,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000009,Trafford,Special,3972,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000010,Wigan,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000010,Wigan,Secondary,6234,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000010,Wigan,Special,4718,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000011,Knowsley,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000011,Knowsley,Secondary,4926,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000011,Knowsley,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000012,Liverpool,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000012,Liverpool,Secondary,7144,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000012,Liverpool,Special,247,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000013,St. Helens,Primary,1724,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000013,St. Helens,Secondary,9628,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000013,St. Helens,Special,2071,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000014,Sefton,Primary,100,262
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000014,Sefton,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000014,Sefton,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000015,Wirral,Primary,2320,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000015,Wirral,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E08000015,Wirral,Special,5263,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000016,Barnsley,Primary,3974,870
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000016,Barnsley,Secondary,979,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000016,Barnsley,Special,3091,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000017,Doncaster,Primary,3602,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000017,Doncaster,Secondary,2494,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000017,Doncaster,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000018,Rotherham,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000018,Rotherham,Secondary,4079,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000018,Rotherham,Special,1575,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000019,Sheffield,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000019,Sheffield,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000019,Sheffield,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E08000020,Gateshead,Primary,100,750
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E08000020,Gateshead,Secondary,2153,65
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E08000020,Gateshead,Special,4097,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E08000021,Newcastle upon Tyne,Primary,2882,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E08000021,Newcastle upon Tyne,Secondary,1217,346
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E08000021,Newcastle upon Tyne,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E08000022,North Tyneside,Primary,3223,598
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E08000022,North Tyneside,Secondary,5497,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E08000022,North Tyneside,Special,453,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E08000023,South Tyneside,Primary,2857,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E08000023,South Tyneside,Secondary,2219,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E08000023,South Tyneside,Special,3315,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E08000024,Sunderland,Primary,4367,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E08000024,Sunderland,Secondary,5569,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E08000024,Sunderland,Special,2971,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E08000025,Birmingham,Primary,4454,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E08000025,Birmingham,Secondary,2321,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E08000025,Birmingham,Special,4557,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E08000026,Coventry,Primary,6346,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E08000026,Coventry,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E08000026,Coventry,Special,3197,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E08000027,Dudley,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E08000027,Dudley,Secondary,246,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E08000027,Dudley,Special,2574,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E08000028,Sandwell,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E08000028,Sandwell,Secondary,1089,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E08000028,Sandwell,Special,4564,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E08000029,Solihull,Primary,1896,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E08000029,Solihull,Secondary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E08000029,Solihull,Special,1730,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E08000030,Walsall,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E08000030,Walsall,Secondary,100,322
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E08000030,Walsall,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E08000031,Wolverhampton,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E08000031,Wolverhampton,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E08000031,Wolverhampton,Special,2058,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000032,Bradford,Primary,2121,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000032,Bradford,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000032,Bradford,Special,1416,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000033,Calderdale,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000033,Calderdale,Secondary,2823,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000033,Calderdale,Special,6277,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000034,Kirklees,Primary,9694,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000034,Kirklees,Secondary,6800,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000034,Kirklees,Special,6307,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000035,Leeds,Primary,3233,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000035,Leeds,Secondary,3185,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000035,Leeds,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000036,Wakefield,Primary,2485,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000036,Wakefield,Secondary,2570,704
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000036,Wakefield,Special,3862,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E08000037,Gateshead,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E08000037,Gateshead,Secondary,5154,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E08000037,Gateshead,Special,4761,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000038,Barnsley,Primary,2633,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000038,Barnsley,Secondary,3831,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000038,Barnsley,Special,330,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000039,Sheffield,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000039,Sheffield,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E08000039,Sheffield,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000001,City of London,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000001,City of London,Secondary,5490,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000001,City of London,Special,3679,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000002,Barking and Dagenham,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000002,Barking and Dagenham,Secondary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000002,Barking and Dagenham,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000003,Barnet,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000003,Barnet,Secondary,3273,619
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000003,Barnet,Special,911,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000004,Bexley,Primary,3374,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000004,Bexley,Secondary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000004,Bexley,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000005,Brent,Primary,4046,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000005,Brent,Secondary,3088,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000005,Brent,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000006,Bromley,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000006,Bromley,Secondary,2815,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000006,Bromley,Special,4127,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000007,Camden,Primary,120,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000007,Camden,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000007,Camden,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000008,Croydon,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000008,Croydon,Secondary,4273,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000008,Croydon,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000009,Ealing,Primary,7941,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000009,Ealing,Secondary,2693,998
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000009,Ealing,Special,271,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000010,Enfield,Primary,2207,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000010,Enfield,Secondary,7210,355
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000010,Enfield,Special,2504,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000011,Greenwich,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000011,Greenwich,Secondary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000011,Greenwich,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000012,Hackney,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000012,Hackney,Secondary,3711,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000012,Hackney,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000013,Hammersmith and Fulham,Primary,5548,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000013,Hammersmith and Fulham,Secondary,1151,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000013,Hammersmith and Fulham,Special,5938,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000014,Haringey,Primary,5822,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000014,Haringey,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000014,Haringey,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000015,Harrow,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000015,Harrow,Secondary,3426,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000015,Harrow,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000016,Havering,Primary,8961,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000016,Havering,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000016,Havering,Special,3666,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000017,Hillingdon,Primary,7790,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000017,Hillingdon,Secondary,2029,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000017,Hillingdon,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000018,Hounslow,Primary,1839,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000018,Hounslow,Secondary,3980,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000018,Hounslow,Special,100,997
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000019,Islington,Primary,5902,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000019,Islington,Secondary,3344,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000019,Islington,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000020,Kensington and Chelsea,Primary,1032,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000020,Kensington and Chelsea,Secondary,417,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000020,Kensington and Chelsea,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000021,Kingston upon Thames,Primary,1299,432
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000021,Kingston upon Thames,Secondary,100,321
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000021,Kingston upon Thames,Special,1068,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000022,Lambeth,Primary,1571,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000022,Lambeth,Secondary,3841,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000022,Lambeth,Special,2642,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000023,Lewisham,Primary,2002,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000023,Lewisham,Secondary,348,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000023,Lewisham,Special,184,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000024,Merton,Primary,1255,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000024,Merton,Secondary,100,455
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000024,Merton,Special,1403,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000025,Newham,Primary,8099,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000025,Newham,Secondary,4676,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000025,Newham,Special,7503,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000026,Redbridge,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000026,Redbridge,Secondary,1335,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000026,Redbridge,Special,125,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000027,Richmond upon Thames,Primary,5157,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000027,Richmond upon Thames,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000027,Richmond upon Thames,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000028,Southwark,Primary,5128,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000028,Southwark,Secondary,100,867
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000028,Southwark,Special,1046,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000029,Sutton,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000029,Sutton,Secondary,1935,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000029,Sutton,Special,5323,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000030,Tower Hamlets,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000030,Tower Hamlets,Secondary,5386,600
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000030,Tower Hamlets,Special,1273,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000031,Waltham Forest,Primary,978,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000031,Waltham Forest,Secondary,3930,999
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000031,Waltham Forest,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000032,Wandsworth,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000032,Wandsworth,Secondary,2164,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000032,Wandsworth,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000033,Westminster,Primary,3422,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000033,Westminster,Secondary,2475,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000007,London,E09000033,Westminster,Special,4518,49
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E10000001,Bedfordshire,Primary,1027,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E10000001,Bedfordshire,Secondary,6015,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E10000001,Bedfordshire,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E10000002,Buckinghamshire,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E10000002,Buckinghamshire,Secondary,1481,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E10000002,Buckinghamshire,Special,9135,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E10000003,Cambridgeshire,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E10000003,Cambridgeshire,Secondary,2699,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E10000003,Cambridgeshire,Special,3974,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E10000004,Cheshire,Primary,4177,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E10000004,Cheshire,Secondary,8170,302
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E10000004,Cheshire,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E10000005,Cornwall and Isles of Scilly,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E10000005,Cornwall and Isles of Scilly,Secondary,741,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E10000005,Cornwall and Isles of Scilly,Special,2796,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E10000006,Cumbria,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E10000006,Cumbria,Secondary,546,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E10000006,Cumbria,Special,4022,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E10000007,Derbyshire,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E10000007,Derbyshire,Secondary,1236,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E10000007,Derbyshire,Special,3338,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E10000008,Devon,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E10000008,Devon,Secondary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E10000008,Devon,Special,4384,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E10000009,Dorset,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E10000009,Dorset,Secondary,1403,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E10000009,Dorset,Special,100,975
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E10000010,Durham,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E10000010,Durham,Secondary,3375,622
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E10000010,Durham,Special,2879,750
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E10000011,East Sussex,Primary,7122,469
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E10000011,East Sussex,Secondary,2905,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E10000011,East Sussex,Special,100,746
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E10000012,Essex,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E10000012,Essex,Secondary,1141,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E10000012,Essex,Special,2101,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E10000013,Gloucestershire,Primary,2557,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E10000013,Gloucestershire,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E10000013,Gloucestershire,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E10000014,Hampshire,Primary,1669,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E10000014,Hampshire,Secondary,100,279
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E10000014,Hampshire,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E10000015,Hertfordshire,Primary,1386,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E10000015,Hertfordshire,Secondary,1674,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E10000015,Hertfordshire,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E10000016,Kent,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E10000016,Kent,Secondary,2753,961
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E10000016,Kent,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E10000017,Lancashire,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E10000017,Lancashire,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000002,North West,E10000017,Lancashire,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E10000018,Leicestershire,Primary,567,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E10000018,Leicestershire,Secondary,102,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E10000018,Leicestershire,Special,2370,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E10000019,Lincolnshire,Primary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E10000019,Lincolnshire,Secondary,3241,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E10000019,Lincolnshire,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E10000020,Norfolk,Primary,2048,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E10000020,Norfolk,Secondary,3215,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E10000020,Norfolk,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E10000021,Northamptonshire,Primary,593,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E10000021,Northamptonshire,Secondary,3549,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E10000021,Northamptonshire,Special,100,737
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E10000022,Northumberland,Primary,2010,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E10000022,Northumberland,Secondary,586,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000001,North East,E10000022,Northumberland,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E10000023,North Yorkshire,Primary,211,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E10000023,North Yorkshire,Secondary,2342,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000003,Yorkshire and The Humber,E10000023,North Yorkshire,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E10000024,Nottinghamshire,Primary,2529,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E10000024,Nottinghamshire,Secondary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000004,East Midlands,E10000024,Nottinghamshire,Special,5047,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E10000025,Oxfordshire,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E10000025,Oxfordshire,Secondary,1009,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E10000025,Oxfordshire,Special,384,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E10000026,Shropshire,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E10000026,Shropshire,Secondary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E10000026,Shropshire,Special,8426,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E10000027,Somerset,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E10000027,Somerset,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E10000027,Somerset,Special,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E10000028,Staffordshire,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E10000028,Staffordshire,Secondary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E10000028,Staffordshire,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E10000029,Suffolk,Primary,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E10000029,Suffolk,Secondary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000006,East of England,E10000029,Suffolk,Special,1170,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E10000030,Surrey,Primary,5072,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E10000030,Surrey,Secondary,4686,194
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E10000030,Surrey,Special,4690,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E10000031,Warwickshire,Primary,6412,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E10000031,Warwickshire,Secondary,1033,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E10000031,Warwickshire,Special,100,300
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E10000032,West Sussex,Primary,3253,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E10000032,West Sussex,Secondary,100,28
+Autumn Term,202425,Local Authority,E92000001,England,E12000008,South East,E10000032,West Sussex,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E10000033,Wiltshire,Primary,7813,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E10000033,Wiltshire,Secondary,2006,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000009,South West,E10000033,Wiltshire,Special,100,0
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E10000034,Worcestershire,Primary,5095,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E10000034,Worcestershire,Secondary,100,1000
+Autumn Term,202425,Local Authority,E92000001,England,E12000005,West Midlands,E10000034,Worcestershire,Special,100,1000
+Autumn Term,,,,,E12000001,North East,,,Primary,33692,4916
+Autumn Term,,,,,E12000002,North West,,,Primary,37766,12295
+Autumn Term,,,,,E12000003,Yorkshire and The Humber,,,Primary,44337,10854
+Autumn Term,,,,,E12000004,East Midlands,,,Primary,17214,8667
+Autumn Term,,,,,E12000005,West Midlands,,,Primary,28110,7000
+Autumn Term,,,,,E12000006,East of England,,,Primary,17025,7208
+Autumn Term,,,,,E12000007,London,,,Primary,84693,9432
+Autumn Term,,,,,E12000008,South East,,,Primary,42187,11059
+Autumn Term,,,,,E12000009,South West,,,Primary,49967,8000
+Autumn Term,,,,,E12000001,North East,,,Secondary,44503,5572
+Autumn Term,,,,,E12000002,North West,,,Secondary,74455,10302
+Autumn Term,,,,,E12000003,Yorkshire and The Humber,,,Secondary,43010,10404
+Autumn Term,,,,,E12000004,East Midlands,,,Secondary,24230,2932
+Autumn Term,,,,,E12000005,West Midlands,,,Secondary,21204,8322
+Autumn Term,,,,,E12000006,East of England,,,Secondary,26672,5000
+Autumn Term,,,,,E12000007,London,,,Secondary,73990,15214
+Autumn Term,,,,,E12000008,South East,,,Secondary,27550,9623
+Autumn Term,,,,,E12000009,South West,,,Secondary,51177,6000
+Autumn Term,,,,,E12000001,North East,,,Special,36646,7497
+Autumn Term,,,,,E12000002,North West,,,Special,53385,9949
+Autumn Term,,,,,E12000003,Yorkshire and The Humber,,,Special,33677,7443
+Autumn Term,,,,,E12000004,East Midlands,,,Special,33243,4735
+Autumn Term,,,,,E12000005,West Midlands,,,Special,36526,7300
+Autumn Term,,,,,E12000006,East of England,,,Special,21132,5000
+Autumn Term,,,,,E12000007,London,,,Special,47781,18046
+Autumn Term,,,,,E12000008,South East,,,Special,41466,9288
+Autumn Term,,,,,E12000009,South West,,,Special,57393,11159
+,,,,,,,,,Primary,354991,79431
+,,,,,,,,,Secondary,386791,73369
+,,,,,,,,,Special,361249,80417

@@ -11,7 +11,8 @@ time_identifier = "Autumn Term"
 time_period = "202425"
 
 # define geographic levels
-geographic_levels = ["National", "Regional", "Local Authority"]
+#geographic_levels = ["National", "Regional", "Local Authority"]
+geographic_levels = "Local Authority"
 
 #create country_code
 
@@ -36,24 +37,7 @@ region_dict = {
     "E13000001": "Inner London",
     "E13000002": "Outer London"
 }
-"""#region_code = list(region_code_name.keys())
-#region_name = list(region_code_name.values())
 
-
-#create region_name
-#region_name = [
-    "North East",
-    "North West",
-    "Yorkshire and The Humber",
-    "East Midlands",
-    "West Midlands",
-    "East of England",
-    "London",
-    "South East",
-    "South West",
-    "Inner London",
-    "Outer London"
-]"""
 
 #create la_code
 # Local Authority dictionary: code -> {"name": ..., "parent_geography_code": ...}
@@ -236,78 +220,13 @@ la_dict = {
 
 #define education phases
 
-education_phases = ["Primary", "Secondary", "Special", "Total"]
+education_phases = ["Primary", "Secondary", "Special"]
 
 
 #create an empty list
 main_data=[]
 
-# create a for loop so every geographic level gets variables 
-
-
-# for each level in geographic levels 
-for geo in geographic_levels:
-    # if the level is national
-    if geo == "National":
-        # then do a for loop for each education phase in the education phase list
-        for phase in education_phases:
-
-            # create normally distributed head counts to append later 
-            headcount = int(np.clip(np.random.normal(1e7, 5e6), 12e3, 2e8))
-            # append the following to the empty list
-            main_data.append({ 
-                # put the time identifer as is
-                "time_identifier": time_identifier,
-                # put the time period as is
-                "time_period": time_period,
-                # use each geographic level
-                "geographic_levels": geo,
-                # use country code as is because it's the same throughout 
-                "country_code": country_code,
-                # use country name as is because it's the same throughout 
-                "country_name": country_name,
-                # leave region code empty because this is national level so no regional data
-                "region_code": "",
-                # leave region name empty because this is national level so no regional data
-                "region_name": "",
-                # use each education phase
-                "education_phases": phase,
-                # use the headcount data generated earlier 
-                "headcount": headcount
-            })
-    # now do the regional 
-    elif geo == "Regional":
-        # for each region code and name in the region dictionary
-        for code, name in region_dict.items():
-            # for each education phase
-            for phase in education_phases:
-                # create normally distributed head counts for region
-                headcount = int(np.clip(np.random.normal(1e5, 5e5), 1e3, 3e6))
-                # append the data for this region and phase
-                main_data.append({
-                    # put the time identifer as is
-                    "time_identifier": time_identifier,
-                    # put the time period as is
-                    "time_period": time_period,
-                    # use each geographic level
-                    "geographic_levels": geo,
-                    # use country code as is because it's the same throughout 
-                    "country_code": country_code,
-                    # use country name as is because it's the same throughout 
-                    "country_name": country_name,
-                    # use the region code for this row
-                    "region_code": code,
-                    # use the region name for this row
-                    "region_name": name,
-                    # use each education phase
-                    "education_phases": phase,
-                    # use the headcount data generated earlier 
-                    "headcount": headcount
-                })
-    # now do la level
-    else:
-        # for each local authority code and info in the la dictionary
-        for la_code, la_info in la_dict.items():
+for la_code, la_info in la_dict.items():
             # get the parent region code for this LA
             parent_region_code = la_info["parent_geography_code"]
             # get the LA name
@@ -318,6 +237,8 @@ for geo in geographic_levels:
             for phase in education_phases: 
                 # create normally distributed head counts for LA
                 headcount = int(np.clip(np.random.normal(1e3, 4e3), 1e2, 3e4))
+                            #create suspension numbers to append later - normally distributed too
+                suspensions = int(np.clip(np.random.normal(2e1, 4e3),0,1e3 ))
                 # append the data for this LA and phase
                 main_data.append({
                     # put the time identifer as is
@@ -325,7 +246,7 @@ for geo in geographic_levels:
                     # put the time period as is
                     "time_period": time_period,
                     # use each geographic level
-                    "geographic_levels": geo, 
+                    "geographic_level": geographic_levels, 
                     # use country code as is because it's the same throughout 
                     "country_code": country_code,
                     # use country name as is because it's the same throughout 
@@ -341,13 +262,37 @@ for geo in geographic_levels:
                     # use each education phase
                     "education_phases": phase,
                     # use the headcount data generated earlier 
-                    "headcount": headcount
+                    "headcount": headcount,
+                    #append suspensions 
+                    "suspensions": suspensions
                 })
 
 
 df = pd.DataFrame(main_data)
 
-print(df)
+# do regional totals 
+reg_totals = df.groupby(["education_phases", "region_code", "region_name"],
+                         as_index=False)[['headcount', "suspensions"]].sum()
+
+reg_totals["time_identifier"]= time_identifier
+reg_totals["time_period"]= time_period
+reg_totals["country_code"]= country_code
+reg_totals["country_name"]= country_name
+
+print(reg_totals)
+
+# do national totals 
+
+nat_totals = df.groupby(["education_phases"], as_index=False)[["headcount", "suspensions"]].sum()
+
+'''print(df)
+
+
+print(type(reg_totals))
+
+print(nat_totals)'''
+
+df = pd.concat([df, reg_totals], ignore_index=True)
+df = pd.concat([df, nat_totals], ignore_index=True)
 
 df.to_csv("example.csv", index = False)
-
