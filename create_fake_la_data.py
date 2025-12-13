@@ -6,16 +6,15 @@ import numpy as np
 # Set random seed for reproducibility
 np.random.seed(42)
 
-#create a time identifier column 200 times
+#create a time identifier vairable
 time_identifier = "Autumn Term"
 
 
-# create a time period column 
+# create a time period variable
 
 time_period = "202425"
 
-# define geographic levels
-#geographic_levels = ["National", "Regional", "Local Authority"]
+# define geographic level
 geographic_levels = "Local Authority"
 
 #create country_code
@@ -26,7 +25,7 @@ country_code = "E92000001"
 
 country_name = "England"
 
-#create region_code
+#create region_code dictionary 
 
 region_dict = {
     "E12000001": "North East",
@@ -43,8 +42,8 @@ region_dict = {
 }
 
 
-#create la_code
-# Local Authority dictionary: code -> {"name": ..., "parent_geography_code": ...}
+#create la_code dictionary
+
 la_dict = {
     "E06000001": {"name": "Hartlepool", "parent_geography_code": "E12000001"},
     "E06000002": {"name": "Middlesbrough", "parent_geography_code": "E12000001"},
@@ -219,7 +218,7 @@ la_dict = {
     "E10000033": {"name": "Wiltshire", "parent_geography_code": "E12000009"},
     "E10000034": {"name": "Worcestershire", "parent_geography_code": "E12000005"},
 }
-#create la_name
+
 
 
 #define education phases
@@ -274,36 +273,56 @@ for la_code, la_info in la_dict.items():
 
 df = pd.DataFrame(main_data)
 
-total_groups_name= {"regional":["education_phases", "region_code", "region_name"],
-                    "regional":["region_code", "region_name"],
-                    "national":["education_phases"],
-                    "national_overall":["time_period"]}
+#do suspension rate for the la data we created
+
+df["susp_rate"] = df["suspensions"]/df["headcount"]
+
+#create a dictionary of the list of groups i want to create 
+total_groups_name= {"la":["la_code","la_name", "region_code", "region_name"], # get la totals for education phase
+                    "regional_edu":["education_phases", "region_code", "region_name"], # get regional totals by education phase 
+                    "regional_overall":["region_code", "region_name"], # get regional totals for the education phases
+                    "national_edu":["education_phases"], #get national totals for phases
+                    "national_overall":["time_period"]} #  get overall national totals
 
 
 
-
-# do regional totals 
-reg_totals = df.groupby(["education_phases", "region_code", "region_name"],
-                         as_index=False)[['headcount', "suspensions"]].sum()
-
+#start a list with the data frame we created of LAs earlier
 mylist=[df]
+
+#use a for loop to get totals for headcounts, suspensions and suspension rates for different categories 
+
+# for each type of group and col name specified in the dictionary 
 for group_name, group_cols in total_groups_name.items():
+        # do a groupby sum using the cols int he dict
         sub_total_df = df.groupby(group_cols, as_index=False)[["headcount", "suspensions"]].sum()
+        #calculate suspension rate
+        sub_total_df["susp_rate"]  = sub_total_df["suspensions"]/sub_total_df["headcount"]
+        #assign variables
         sub_total_df["time_identifier"]= time_identifier
         sub_total_df["time_period"]= time_period
         sub_total_df["country_code"]= country_code
         sub_total_df["country_name"]= country_name
 
-        if group_name== "regional":
+        # if the education phase isn't in the columns in the groupby, then assign it as "Total"
+        if "education_phases" not in group_cols:
+            sub_total_df["education_phases"] = "Total"
+        # if the group name is la then assign the values below
+        if group_name == "la":
+              sub_total_df["geographic_level"] = geographic_levels
+              sub_total_df["education_phases"]= "Total"
+        #if they're regional_overall or regional_edu then assign geographic_level as regional 
+        elif group_name== "regional_overall" or group_name == "regional_edu":
             sub_total_df["geographic_level"]= "Regional"
-
-        elif group_name == "national" or group_name == "national_overall":
-            
+        
+        #if they're national_overall or national_edu then assign geographic_level as national 
+        elif group_name == "national_edu" or group_name == "national_overall":
             sub_total_df["geographic_level"]= "National"
 
+
+        #append the data to the list 
         mylist.append(sub_total_df)
-
+# we concat the list of dataframes together aka bind them
 df = pd.concat(mylist)
-
+#we export it to csv
 df.to_csv("example.csv", index = False)
 
