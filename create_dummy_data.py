@@ -36,24 +36,7 @@ region_dict = {
     "E13000001": "Inner London",
     "E13000002": "Outer London"
 }
-"""#region_code = list(region_code_name.keys())
-#region_name = list(region_code_name.values())
 
-
-#create region_name
-#region_name = [
-    "North East",
-    "North West",
-    "Yorkshire and The Humber",
-    "East Midlands",
-    "West Midlands",
-    "East of England",
-    "London",
-    "South East",
-    "South West",
-    "Inner London",
-    "Outer London"
-]"""
 
 #create la_code
 # Local Authority dictionary: code -> {"name": ..., "parent_geography_code": ...}
@@ -254,6 +237,10 @@ for geo in geographic_levels:
 
             # create normally distributed head counts to append later 
             headcount = int(np.clip(np.random.normal(1e7, 5e6), 12e3, 2e8))
+            #create suspension numbers to append later - normally distributed too
+            suspensions = int(np.clip(np.random.normal(2e1, 4e3),2e2,1e3 ))
+            #create susp_rate col to append later - normally distributed
+            susp_rate = headcount = int(np.clip(np.random.normal(100000, 30000), 0, 200000))
             # append the following to the empty list
             main_data.append({ 
                 # put the time identifer as is
@@ -273,7 +260,9 @@ for geo in geographic_levels:
                 # use each education phase
                 "education_phases": phase,
                 # use the headcount data generated earlier 
-                "headcount": headcount
+                "headcount": headcount,
+                #use the suspensions number generated earlier 
+                "suspensions": suspensions
             })
     # now do the regional 
     elif geo == "Regional":

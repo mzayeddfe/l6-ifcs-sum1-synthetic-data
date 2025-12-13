@@ -1,10 +1,14 @@
-#import needed packages 
 
+#import needed packages 
 import pandas as pd 
 import numpy as np 
 
+# Set random seed for reproducibility
+np.random.seed(42)
+
 #create a time identifier column 200 times
 time_identifier = "Autumn Term"
+
 
 # create a time period column 
 
@@ -270,29 +274,36 @@ for la_code, la_info in la_dict.items():
 
 df = pd.DataFrame(main_data)
 
+total_groups_name= {"regional":["education_phases", "region_code", "region_name"],
+                    "regional":["region_code", "region_name"],
+                    "national":["education_phases"],
+                    "national_overall":["time_period"]}
+
+
+
+
 # do regional totals 
 reg_totals = df.groupby(["education_phases", "region_code", "region_name"],
                          as_index=False)[['headcount', "suspensions"]].sum()
 
-reg_totals["time_identifier"]= time_identifier
-reg_totals["time_period"]= time_period
-reg_totals["country_code"]= country_code
-reg_totals["country_name"]= country_name
+mylist=[df]
+for group_name, group_cols in total_groups_name.items():
+        sub_total_df = df.groupby(group_cols, as_index=False)[["headcount", "suspensions"]].sum()
+        sub_total_df["time_identifier"]= time_identifier
+        sub_total_df["time_period"]= time_period
+        sub_total_df["country_code"]= country_code
+        sub_total_df["country_name"]= country_name
 
-print(reg_totals)
+        if group_name== "regional":
+            sub_total_df["geographic_level"]= "Regional"
 
-# do national totals 
+        elif group_name == "national" or group_name == "national_overall":
+            
+            sub_total_df["geographic_level"]= "National"
 
-nat_totals = df.groupby(["education_phases"], as_index=False)[["headcount", "suspensions"]].sum()
+        mylist.append(sub_total_df)
 
-'''print(df)
-
-
-print(type(reg_totals))
-
-print(nat_totals)'''
-
-df = pd.concat([df, reg_totals], ignore_index=True)
-df = pd.concat([df, nat_totals], ignore_index=True)
+df = pd.concat(mylist)
 
 df.to_csv("example.csv", index = False)
+
