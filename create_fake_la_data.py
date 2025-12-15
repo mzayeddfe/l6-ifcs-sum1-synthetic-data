@@ -238,10 +238,12 @@ for la_code, la_info in la_dict.items():
             region_name = region_dict[parent_region_code]
             # for each education phase
             for phase in education_phases: 
-                # create normally distributed head counts for LA
-                headcount = int(np.clip(np.random.normal(1e3, 4e3), 1e2, 3e4))
-                            #create suspension numbers to append later - normally distributed too
-                suspensions = int(np.clip(np.random.normal(2e1, 4e3),0,1e3 ))
+                # create log normally distributed head counts for LA
+                headcount = int(np.clip(np.random.lognormal(1e3, 4e3), 1e2, 3e4))
+                #create suspension numbers to append later - negative binomially distributed
+                suspensions = int(np.clip(np.random.negative_binomial(50, 0.05), 0, 1000))
+                #create exclusions numbers to append later - Poisson distributed
+                exclusions = int(np.random.poisson(20))
                 # append the data for this LA and phase
                 main_data.append({
                     # put the time identifer as is
@@ -267,7 +269,9 @@ for la_code, la_info in la_dict.items():
                     # use the headcount data generated earlier 
                     "headcount": headcount,
                     #append suspensions 
-                    "suspensions": suspensions
+                    "suspensions": suspensions,
+                    #append exclusions
+                    "exclusions": exclusions
                 })
 
 
@@ -276,6 +280,12 @@ df = pd.DataFrame(main_data)
 #do suspension rate for the la data we created
 
 df["susp_rate"] = df["suspensions"]/df["headcount"]
+#fill na with 0
+df["susp_rate"] = df["susp_rate"].fillna(0)
+# do exclusion rate for the la data we created
+df["excl_rate"] = df["exclusions"]/df["headcount"]
+# fill na with 0
+df["excl_rate"] = df["excl_rate"].fillna(0)
 
 #create a dictionary of the list of groups i want to create 
 total_groups_name= {"la":["la_code","la_name", "region_code", "region_name"], # get la totals for education phase
@@ -293,10 +303,16 @@ mylist=[df]
 
 # for each type of group and col name specified in the dictionary 
 for group_name, group_cols in total_groups_name.items():
-        # do a groupby sum using the cols int he dict
-        sub_total_df = df.groupby(group_cols, as_index=False)[["headcount", "suspensions"]].sum()
+        # do a groupby sum using the cols in the dict
+        sub_total_df = df.groupby(group_cols, as_index=False)[["headcount", "suspensions","exclusions"]].sum()
         #calculate suspension rate
         sub_total_df["susp_rate"]  = sub_total_df["suspensions"]/sub_total_df["headcount"]
+        # fill na with 0
+        sub_total_df["susp_rate"] = sub_total_df["susp_rate"].fillna(0)
+        # calculate exclusion rate
+        sub_total_df["excl_rate"]  = sub_total_df["exclusions"]/sub_total_df["headcount"]
+        # fill na with 0
+        sub_total_df["excl_rate"] = sub_total_df["excl_rate"].fillna(0)
         #assign variables
         sub_total_df["time_identifier"]= time_identifier
         sub_total_df["time_period"]= time_period

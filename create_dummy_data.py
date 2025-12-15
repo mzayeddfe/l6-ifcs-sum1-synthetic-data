@@ -235,12 +235,12 @@ for geo in geographic_levels:
         # then do a for loop for each education phase in the education phase list
         for phase in education_phases:
 
-            # create normally distributed head counts to append later 
-            headcount = int(np.clip(np.random.normal(1e7, 5e6), 12e3, 2e8))
+            # create log normally distributed head counts to append later 
+            headcount = int(np.clip(np.random.lognormal(1e7, 5e6), 12e3, 2e8))
             #create suspension numbers to append later - normally distributed too
             suspensions = int(np.clip(np.random.normal(2e1, 4e3),2e2,1e3 ))
             #create susp_rate col to append later - normally distributed
-            susp_rate = headcount = int(np.clip(np.random.normal(100000, 30000), 0, 200000))
+            susp_rate = int(np.clip(np.random.normal(100000, 30000), 0, 200000))
             # append the following to the empty list
             main_data.append({ 
                 # put the time identifer as is
@@ -270,8 +270,8 @@ for geo in geographic_levels:
         for code, name in region_dict.items():
             # for each education phase
             for phase in education_phases:
-                # create normally distributed head counts for region
-                headcount = int(np.clip(np.random.normal(1e5, 5e5), 1e3, 3e6))
+                # create log normally distributed head counts for region
+                headcount = int(np.clip(np.random.lognormal(1e5, 5e5), 1e3, 3e6))
                 # append the data for this region and phase
                 main_data.append({
                     # put the time identifer as is
@@ -306,7 +306,7 @@ for geo in geographic_levels:
             # for each education phase
             for phase in education_phases: 
                 # create normally distributed head counts for LA
-                headcount = int(np.clip(np.random.normal(1e3, 4e3), 1e2, 3e4))
+                headcount = int(np.clip(np.random.lognormal(1e3, 4e3), 1e2, 3e4))
                 # append the data for this LA and phase
                 main_data.append({
                     # put the time identifer as is
