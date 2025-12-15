@@ -12,7 +12,7 @@ time_identifier = "Autumn Term"
 
 # create a time period variable
 
-time_period = "202425"
+time_period = ["201819","201920","202021","202122","202223","202324","202425"]
 
 # define geographic level
 geographic_levels = "Local Authority"
@@ -229,50 +229,51 @@ education_phases = ["Primary", "Secondary", "Special"]
 #create an empty list
 main_data=[]
 
-for la_code, la_info in la_dict.items():
-            # get the parent region code for this LA
-            parent_region_code = la_info["parent_geography_code"]
-            # get the LA name
-            la_name = la_info["name"]
-            # get the region name from the region dictionary
-            region_name = region_dict[parent_region_code]
-            # for each education phase
-            for phase in education_phases: 
-                # create log normally distributed head counts for LA
-                headcount = int(np.clip(np.random.lognormal(1e3, 4e3), 1e2, 3e4))
-                #create suspension numbers to append later - negative binomially distributed
-                suspensions = int(np.clip(np.random.negative_binomial(50, 0.05), 0, 1000))
-                #create exclusions numbers to append later - Poisson distributed
-                exclusions = int(np.random.poisson(20))
-                # append the data for this LA and phase
-                main_data.append({
-                    # put the time identifer as is
-                    "time_identifier": time_identifier,
-                    # put the time period as is
-                    "time_period": time_period,
-                    # use each geographic level
-                    "geographic_level": geographic_levels, 
-                    # use country code as is because it's the same throughout 
-                    "country_code": country_code,
-                    # use country name as is because it's the same throughout 
-                    "country_name": country_name, 
-                    # use the parent region code for this LA
-                    "region_code": parent_region_code, 
-                    # use the region name for this LA
-                    "region_name": region_name, 
-                    # use the LA code for this row
-                    "la_code": la_code,
-                    # use the LA name for this row
-                    "la_name": la_name, 
-                    # use each education phase
-                    "education_phases": phase,
-                    # use the headcount data generated earlier 
-                    "headcount": headcount,
-                    #append suspensions 
-                    "suspensions": suspensions,
-                    #append exclusions
-                    "exclusions": exclusions
-                })
+for time_period in time_period:
+    for la_code, la_info in la_dict.items():
+                # get the parent region code for this LA
+                parent_region_code = la_info["parent_geography_code"]
+                # get the LA name
+                la_name = la_info["name"]
+                # get the region name from the region dictionary
+                region_name = region_dict[parent_region_code]
+                # for each education phase
+                for phase in education_phases: 
+                    # create log normally distributed head counts for LA
+                    headcount = int(np.clip(np.random.lognormal(1e3, 4e3), 1e2, 3e4))
+                    #create suspension numbers to append later - negative binomially distributed
+                    suspensions = int(np.clip(np.random.negative_binomial(50, 0.05), 0, min(1000, headcount-1)))
+                    #create exclusions numbers to append later - Poisson distributed
+                    exclusions = int(np.clip(np.random.poisson(20), 0, headcount-1))
+                    # append the data for this LA and phase
+                    main_data.append({
+                        # put the time identifer as is
+                        "time_identifier": time_identifier,
+                        # put the time period as is
+                        "time_period": time_period,
+                        # use each geographic level
+                        "geographic_level": geographic_levels, 
+                        # use country code as is because it's the same throughout 
+                        "country_code": country_code,
+                        # use country name as is because it's the same throughout 
+                        "country_name": country_name, 
+                        # use the parent region code for this LA
+                        "region_code": parent_region_code, 
+                        # use the region name for this LA
+                        "region_name": region_name, 
+                        # use the LA code for this row
+                        "la_code": la_code,
+                        # use the LA name for this row
+                        "la_name": la_name, 
+                        # use each education phase
+                        "education_phases": phase,
+                        # use the headcount data generated earlier 
+                        "headcount": headcount,
+                        #append suspensions 
+                        "suspensions": suspensions,
+                        #append exclusions
+                        "exclusions": exclusions
+                    })
 
 
 df = pd.DataFrame(main_data)
@@ -288,11 +289,11 @@ df["excl_rate"] = df["exclusions"]/df["headcount"]
 df["excl_rate"] = df["excl_rate"].fillna(0)
 
 #create a dictionary of the list of groups i want to create 
-total_groups_name= {"la":["la_code","la_name", "region_code", "region_name"], # get la totals for education phase
-                    "regional_edu":["education_phases", "region_code", "region_name"], # get regional totals by education phase 
-                    "regional_overall":["region_code", "region_name"], # get regional totals for the education phases
-                    "national_edu":["education_phases"], #get national totals for phases
-                    "national_overall":["time_period"]} #  get overall national totals
+total_groups_name= {"la":["time_period","la_code","la_name", "region_code", "region_name"], # get la totals for education phase
+                    "regional_edu":["time_period","education_phases", "region_code", "region_name"], # get regional totals by education phase 
+                    "regional_overall":["time_period","region_code", "region_name"], # get regional totals for the education phases
+                    "national_edu":["time_period","education_phases"], #get national totals for phases
+                    "national_overall":["time_period","country_name"]} #  get overall national totals
 
 
 
@@ -315,7 +316,7 @@ for group_name, group_cols in total_groups_name.items():
         sub_total_df["excl_rate"] = sub_total_df["excl_rate"].fillna(0)
         #assign variables
         sub_total_df["time_identifier"]= time_identifier
-        sub_total_df["time_period"]= time_period
+        #sub_total_df["time_period"]= time_period
         sub_total_df["country_code"]= country_code
         sub_total_df["country_name"]= country_name
 
