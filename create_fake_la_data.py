@@ -6,13 +6,9 @@ import numpy as np
 # Set random seed for reproducibility
 np.random.seed(42)
 
+#set up single value parameters 
 #create a time identifier vairable
 time_identifier = "Autumn Term"
-
-
-# create a time period variable
-
-time_period = ["201819","201920","202021","202122","202223","202324","202425"]
 
 # define geographic level
 geographic_levels = "Local Authority"
@@ -24,6 +20,12 @@ country_code = "E92000001"
 #create country name 
 
 country_name = "England"
+
+
+#set up multi value parameters 
+# create a time period variable
+
+time_period = ["201819","201920","202021","202122","202223","202324","202425"]
 
 #create region_code dictionary 
 
@@ -229,6 +231,9 @@ education_phases = ["Primary", "Secondary", "Special"]
 #create an empty list
 main_data=[]
 
+# create a for loop over time periods and local authority data to generate data for all 
+# local authorities and time periods to create time series data
+
 for time_period in time_period:
     for la_code, la_info in la_dict.items():
                 # get the parent region code for this LA
@@ -275,10 +280,11 @@ for time_period in time_period:
                         "exclusions": exclusions
                     })
 
+# convert the list of data into a dataframe 
 
 df = pd.DataFrame(main_data)
 
-#do suspension rate for the la data we created
+#calculate suspension and exclusion rate for the la data we created
 
 df["susp_rate"] = df["suspensions"]/df["headcount"]
 #fill na with 0
