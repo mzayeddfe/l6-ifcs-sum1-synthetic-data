@@ -347,5 +347,5 @@ for group_name, group_cols in total_groups_name.items():
 # we concat the list of dataframes together aka bind them
 df = pd.concat(mylist)
 #we export it to csv
-df.to_csv("example.csv", index = False)
+df.to_csv("susp_exc_fake_data.csv", index = False)
 
